@@ -1,4 +1,4 @@
 # OneOrganizer
 One Organizer Website and MobileApp
 
-:coffee: :pizza: :dancer:
+Developed using AngularJS, Bootstrap
